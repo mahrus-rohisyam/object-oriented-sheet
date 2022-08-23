@@ -1,0 +1,25 @@
+{
+  "name": "object-oriented-typescript-sheet",
+  "version": "1.0.0",
+  "description": "Object oriented practice sheet with example",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahrus-rohisyam/object-oriented-sheet.git"
+  },
+  "keywords": [
+    "OOP",
+    "Object-oriented",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "author": "Mahrus Sayid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahrus-rohisyam/object-oriented-sheet/issues"
+  },
+  "homepage": "https://github.com/mahrus-rohisyam/object-oriented-sheet#readme"
+}
